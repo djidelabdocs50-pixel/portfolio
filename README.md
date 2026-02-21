@@ -65,7 +65,7 @@ A modern, responsive personal portfolio website showcasing my journey as a Compu
 1. **Password Strength Checker** - [View Live](https://djidelabdocs50-pixel.github.io/pstrength/)
 2. **CyberSec Toolkit** - [View Live](https://djidelabdocs50-pixel.github.io/cs-tool-kit/)
 3. **CipherArena-CTF Platform** - [View Live](https://djidelabdocs50-pixel.github.io/cipher-arana/)
-4. **ThreatScan-AI Threat Analyzer - [View Live](https://djidelabdocs50-pixel.github.io/portfolio/threat-analyzer.html)
+4. **ThreatScan-AI Threat Analyzer** - [View Live](https://djidelabdocs50-pixel.github.io/portfolio/threat-analyzer.html)
 
 ## 📞 Connect With Me
 
